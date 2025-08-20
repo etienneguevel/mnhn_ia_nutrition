@@ -16,7 +16,7 @@ de traitements d'images.
 Le lien vers le notebook colab est accessible ici :
 
 <a target="_blank" href="https://colab.research.google.com/github/etienneguevel/mnhn_ia_nutrition/blob/master/notebooks/part_2_cross_activity.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="180"/>
 </a>
 
 
@@ -25,7 +25,7 @@ Le lien vers le notebook colab est accessible ici :
 Comment activer les GPUs sur Google Colab :
 
 1. **Ouvrez votre notebook Colab**
-2. **Allez dans le menu :** `Runtime` → `Change runtime type`
+2. **Allez dans le menu :** `Runtime` (là où sont RAM et Disque) → `Change runtime type`
 3. **Sélectionnez :** `Hardware accelerator` → `GPU`
 4. **Cliquez sur :** `Save`
 
